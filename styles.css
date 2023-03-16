@@ -1,9 +1,9 @@
-h2 {
+div {
   font-size: 20px;
   background-color:purple;
   width:200px;
   padding : 10px;
   color:white;
   text-decoration:underline;
-  border-left: thick green solid;
+  border-left: 5px green solid ;
 }
